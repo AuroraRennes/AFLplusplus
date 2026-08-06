@@ -12,7 +12,8 @@
 	url = https://github.com/json-c/json-c
 [submodule "coresight_mode/coresight-trace"]
 	path = coresight_mode/coresight-trace
-	url = https://github.com/AFLplusplus/coresight-trace.git
+	url = git@github.com:AuroraRennes/coresight-trace.git
+	branch = stalker-dev
 [submodule "nyx_mode/libnyx"]
 	path = nyx_mode/libnyx
 	url = https://github.com/nyx-fuzz/libnyx.git
